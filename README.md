@@ -1,8 +1,5 @@
 # About Me 
 
-
-**PremkumarPrithiviraj/PremkumarPrithiviraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Experienced Japanese bilingual senior management professional with a track record of strategic leadership and operational excellence, driving organizational success with a combination of Autocratic, Delegative, Visionary and Transformational leadership style. Demonstrated expertise in project management, team collaboration, and process optimization, always with a focus on achieving tangible results. Skilled at navigating complex challenges, fostering a culture of accountability, and adapting to evolving business needs. Renowned for strong decision-making abilities, effective communication skills, and building and leading high-performing teams.
  
 
